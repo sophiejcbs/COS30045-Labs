@@ -1,0 +1,12 @@
+#updateBtn {
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: bold;
+    border: 1px solid cornflowerblue;
+    border-radius: 6%;
+    padding: 0.65%;
+}
+
+#updateBtn:hover {
+    cursor: pointer;
+}

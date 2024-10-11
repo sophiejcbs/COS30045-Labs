@@ -1,0 +1,19 @@
+#addBtn, #removeBtn {
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 6%;
+    padding: 0.65%;
+}
+
+#removeBtn {
+    background-color: orange;
+}
+
+#addBtn {
+    background-color: cornflowerblue;
+}
+
+#addBtn:hover, #removeBtn:hover {
+    cursor: pointer;
+}

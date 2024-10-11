@@ -1,0 +1,23 @@
+#updateBtn, #trans1Btn, #trans2Btn {
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 6%;
+    padding: 0.65%;
+}
+
+#updateBtn {
+    background-color: cornflowerblue;
+}
+
+#trans1Btn {
+    background-color: orange;
+}
+
+#trans2Btn {
+    background-color: green;
+}
+
+#updateBtn:hover, #trans1Btn:hover, #trans2Btn:hover {
+    cursor: pointer;
+}
