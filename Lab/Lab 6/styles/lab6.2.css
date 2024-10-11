@@ -1,0 +1,23 @@
+#addBtn, #removeBtn, #sortBtn {
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 6%;
+    padding: 0.65%;
+}
+
+#removeBtn {
+    background-color: orange;
+}
+
+#addBtn {
+    background-color: cornflowerblue;
+}
+
+#sortBtn {
+    background-color: green;
+}
+
+#addBtn:hover, #removeBtn:hover, #sortBtn:hover {
+    cursor: pointer;
+}
